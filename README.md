@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Mistakes + Corrections = Learning
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahbajjamil&hide=[%22contribs%22,%22issues%22]&show_icons=true">
+[![MD Shahbaj Jamil's Github Stats](https://github-readme-stats.vercel.app/api?username=shahbajjamil&hide=[%22contribs%22,%22issues%22]&show_icons=true)](https://shahbajjamil.github.io/)
