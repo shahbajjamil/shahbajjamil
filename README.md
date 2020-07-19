@@ -7,6 +7,6 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [My Website](https://shahbajjamil.github.io/).
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Mistakes + Corrections = Learning
+- ⚡ Fun fact: Learning = Mistakes + Corrections.
 
 [![MD Shahbaj Jamil's Github Stats](https://github-readme-stats.vercel.app/api?username=shahbajjamil&hide=[%22contribs%22,%22issues%22]&show_icons=true)](https://shahbajjamil.github.io/)
