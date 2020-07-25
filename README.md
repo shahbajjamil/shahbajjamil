@@ -9,4 +9,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Learning = Mistakes + Corrections.
 
+![](https://komarev.com/ghpvc/?username=shahbajjamil&color=green)
+
 [![MD Shahbaj Jamil's Github Stats](https://github-readme-stats.vercel.app/api?username=shahbajjamil&hide=[%22contribs%22,%22issues%22]&show_icons=true)](https://shahbajjamil.github.io/)
