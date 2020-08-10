@@ -11,4 +11,5 @@
 
 ![](https://komarev.com/ghpvc/?username=shahbajjamil&color=green)
 
-[![MD Shahbaj Jamil's Github Stats](https://github-readme-stats.vercel.app/api?username=shahbajjamil&hide=[%22contribs%22,%22issues%22]&show_icons=true)](https://shahbajjamil.github.io/)
+[![MD Shahbaj Jamil's Github Stats](https://github-readme-stats.vercel.app/api?username=shahbajjamil&show_icons=true&theme=radical)](https://shahbajjamil.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbajjamil&theme=gruvbox)](https://shahbajjamil.github.io/)
